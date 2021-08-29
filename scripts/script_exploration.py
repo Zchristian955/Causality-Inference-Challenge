@@ -34,5 +34,6 @@ f,ax=plt.subplots(figsize=(14,14))
 sns.heatmap(df.corr(),annot=True, linewidths=5, fmt='.1f', ax=ax)
 
 
-
-
+#heatmap for high coreelation above 0.5
+plt.figure(figsize=(16,8))
+sns.heatmap(df_clean[high_corr_columns].corr(), annot=True, cmap="coolwarm")
