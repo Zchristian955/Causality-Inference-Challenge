@@ -12,7 +12,7 @@ be able to answer question such as “Which clients will pay their debts only if
 just beginning. The causal graph is a central object in the framework mentioned above, but it is often unknown, subject to personal knowledge and bias, or loosely
 connected to the available data.
 
-The main objectif is to conduct an exploratory data analysis on the data &amp; communicate useful insights.
+The main objectif is to conduct an exploratory data analysis on the data and perform Casualty Inference on Brest cancer data set with useful insights using causal graph.
 
 ## Intallation of package
 ``` 
@@ -22,8 +22,9 @@ $ pip install -r requriements.txt
 ```
  
  ## Content folder github
- ### data :\
- This folderr contains all the dataset used and obtainined using the process of data preprocessing and feacture extraction.
+ ### data :
+ This folder contains all the dataset used and obtainined using the process of data preprocessing and feacture extraction.
+  - ``DVC``:  was perform for remote storage and data versioning.
  You can extract the data from[ kaggle](https://www.kaggle.com/uciml/breast-cancer-wisconsin-data).
  Features in the data are computed from a digitized image of a fine needle aspirate (FNA) of a breast mass.
 Attribute Information:
@@ -41,5 +42,10 @@ Attribute Information:
 - fractal dimension ("coastline approximation" - 1)
 
  ### notebooks:
+ - data exploration
+ - data extraction
+ -  Causal model
+ 
+ ### 
 
 
