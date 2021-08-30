@@ -25,7 +25,7 @@ $ pip install -r requriements.txt
  ### data :
  This folder contains all the dataset used and obtainined using the process of data preprocessing and feacture extraction.
   - ``DVC``:  was perform for remote storage and data versioning.
- You can extract the data from[ kaggle](https://www.kaggle.com/uciml/breast-cancer-wisconsin-data).
+ You can extract the data from[ kaggle](https://www.kaggle.com/uciml/breast-cancer-wisconsin-data).\\
  Features in the data are computed from a digitized image of a fine needle aspirate (FNA) of a breast mass.
 Attribute Information:
 - ID number
