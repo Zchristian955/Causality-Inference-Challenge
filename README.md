@@ -6,4 +6,11 @@ connected to the available data.
 
 The main objectif is to conduct an exploratory data analysis on the data &amp; communicate useful insights.
 
+## Table of content
+- Introduction
+- Intallation of package
+- Content folder github
+   -data
+   
+
 
