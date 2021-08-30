@@ -25,6 +25,7 @@ $ pip install -r requriements.txt
  ### data :
  This folder contains all the dataset used and obtainined using the process of data preprocessing and feacture extraction.
   - ``DVC``:  was perform for remote storage and data versioning. \
+  
  You can extract the data from[ kaggle](https://www.kaggle.com/uciml/breast-cancer-wisconsin-data).
  Features in the data are computed from a digitized image of a fine needle aspirate (FNA) of a breast mass.
 Attribute Information:
@@ -46,6 +47,17 @@ Attribute Information:
  - data extraction
  -  Causal model
  
- ### 
+ ### pictures 
+ Contain some  usefull insight of graph for causal graph and data exploration.
+ ### script:
+ - ``script_preprocessing`` : concerned data missing, data cleaning
+ - ``graph_bi_univariate`` : concerned some graphs for data exploration ,  bivariate graph(boxplot) , pairplot, univariate plot which displair distribution (histogrammee).
+ - ``script_exploration`` : used to get an heatmap  and some descriptives statistics
+ - ``causal_graph`` : used to obtains some great causal graph with specification 
+ 
+ ### test : 
+ unitest
+ 
+ 
 
 
