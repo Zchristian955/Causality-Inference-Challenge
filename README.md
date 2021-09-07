@@ -60,7 +60,7 @@ Attribute Information:
  
  ## Result
  Heatmap for High correlation between variables.
- - [heatmap](pictures/heatmap_with_high_corr.png) \
+ - [heatmap](pictures/heatmap_with_high_corr.png) 
  
  
 That is the causal graph used in the analysis .
