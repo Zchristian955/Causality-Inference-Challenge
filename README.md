@@ -59,7 +59,7 @@ Attribute Information:
  unitest
  
  ## Result
- Heatmap for High correlation between variables.
+  Heatmap for High correlation between variables.
  - [heatmap](pictures/heatmap_with_high_corr.png) \
 That is the causal graph used in the analysis .
  - [causal graph](https://github.com/Zchristian955/Casualty-Challenge/blob/fa5d84331af98b690057eefd3c527e13b7bf1454/pictures/causal_graph.png)
