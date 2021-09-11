@@ -68,6 +68,8 @@ Attribute Information:
  ![heatmap](pictures/heatmap_with_high_corr.png)
  
 That is the causal graph used in the analysis .
+
+
  ![causal graph](pictures/causal_graph.png)
 
 
