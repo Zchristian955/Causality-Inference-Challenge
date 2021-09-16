@@ -1,3 +1,4 @@
+![](pictures/CI.png)
 # Casualty_Challenge
 
 ## Table of content
