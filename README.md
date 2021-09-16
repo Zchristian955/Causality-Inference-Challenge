@@ -7,6 +7,7 @@
 - Content folder github
 - Result
   
+  
 ## Introduction
  Judea Pearl and his research group have developed in the last decades a solid theoretical framework to deal with a common frustration in the industry in orders to
 be able to answer question such as “Which clients will pay their debts only if I call them?” , but the first steps toward merging it with mainstream machine learning are
