@@ -6,7 +6,6 @@ from causalnex.structure.notears import from_pandas, from_pandas_lasso
 import pygraphviz
 
 
-
 ###complet graph with all nodes and arrow
 sm = from_pandas(data4, tabu_parent_nodes=['diagnosis'])
 viz = plot_structure(
@@ -37,7 +36,6 @@ viz = plot_structure(
     all_node_attributes=NODE_STYLE.WEAK,
     all_edge_attributes=EDGE_STYLE.WEAK)
 Image(viz.draw(format='png'))
-
 
 
 #with constraint wihout lasso
