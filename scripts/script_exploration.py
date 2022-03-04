@@ -7,8 +7,6 @@ import seaborn as sns
 df = pd.read_csv("../data/data.csv")
 df.describe()
 
-
-
 #Univariate
 plt.figure(figsize=(16,8))
 df.diagnosis.value_counts().plot.pie(autopct="%.1f%%")
